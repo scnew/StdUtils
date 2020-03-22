@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1584892193 source:c:\users\ed\programs\c_codeblocks\stdutils\main.c
+	<stdio.h>
+	<stdlib.h>
+	"StdUtils.h"
+	"TestStdUtils.h"
+
+1584894793 c:\users\ed\programs\c_codeblocks\stdutils\stdutils.h
+	<stdbool.h>
+	<stdint.h>
+
+1584894764 c:\users\ed\programs\c_codeblocks\stdutils\teststdutils.h
+
+1584894835 source:c:\users\ed\programs\c_codeblocks\stdutils\stdutils.c
+	<stdint.h>
+	<stdbool.h>
+	"StdUtils.h"
+	<limits.h>
+
+1584895281 source:c:\users\ed\programs\c_codeblocks\stdutils\teststdutils.c
+	<stdio.h>
+	<stdlib.h>
+	"StdUtils.h"
+	"TestSTdUtils.h"
+	<stdbool.h>
+	<limits.h>
+	<float.h>
+
