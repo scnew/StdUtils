@@ -12,7 +12,7 @@ library was chosen testing standard.  Using a standard library that is portable 
 project. As I have heard many times, exhaustive testing is something that is not feasible.  Tests 
 can have many objectives.  For now due to a lack a structured requirements for the project tests are simple and rather straight forward.
 
-I have not found something similar on GitHub, it may exists.  Also there may be a better and faster way.  Please keep comments
+I have not found something similar on GitHub, it may exist.  Also there may be a better and faster way.  Please keep comments
 constructive.
 
 
